@@ -20,7 +20,7 @@
 
 # GitHub学习
 
-<img src="F:\Git\markdownfile\images\GitHub图标.jpg" alt="github图标" style="zoom:50%;" />
+<img src="./images/GitHub图标.jpg" style="zoom:50%;" />
 
 ## Git和GitHub的区别
 
@@ -35,34 +35,34 @@
 
    > https://github.com
    >
-   > <img src="F:\Git\markdownfile\images\Git注册1.png" style="zoom:50%;" />
+   > <img src="./images/Git注册1.png" style="zoom:50%;" />
 
 2. 填写信息
 
-   <img src="F:\Git\markdownfile\images\Git注册2.png" style="zoom:80%;" />
+   <img src="./images/Git注册2.png" style="zoom:80%;" />
 
    3. 注册完成
 ## GitHub仓库及管理仓库
 
    1. 新建仓库
 
-      <img src="F:\Git\markdownfile\images\git创建仓库.png" style="zoom:80%;" />
+      <img src="./images/git创建仓库.png" style="zoom:80%;" />
 
    2. 仓库概览
 
-      ![](F:\Git\markdownfile\images\Git仓库概览.png)
+      ![](./images/Git仓库概览.png)
 
 3. 新建文件和文件夹
 
-   ![](F:\Git\markdownfile\images\Git新建文件.png)
+   ![](./images/Git新建文件.png)
 
 4. 上传文件
 
-   <img src="F:\Git\markdownfile\images\Git上传.png" style="zoom:80%;" />
+   <img src="./images/Git上传.png" style="zoom:80%;" />
 
 5. 克隆下载文件
 
-   ![](F:\Git\markdownfile\images\下载文件.png)
+   ![](./images/下载文件.png)
 
 ## GitHub功能
 
