@@ -8,19 +8,19 @@
 
 **什么才叫从零开始呢————就像我一样**    
 
-**第一步：**    
+**第一步：开机**    
 ![](./images/start.gif)         
 
-**第二步：**    
+**第二步：上网**    
 ![](./images/network.gif)      
 
-**第三步：**    
-![](./images/software.gif)       
+**第三步：找小姐姐视频**    
+![](./images/xiaojiejie.gif)       
 
-**第四步：**    
-![](./images/xiaojiejie.gif)     
+**第四步：下载软件**    
+![](./images/software.gif)     
 
-**第五步：**    
+**第五步：学Python**    
 ![](./images/Python.gif)                  
 
 # Why
