@@ -2,7 +2,16 @@
 
 **都散了吧，这只是一个傻子从零自学_Python_编程的笔记而已，只因为不想`7$/month`创建私有Git账户。**
 
-**并不是说_Python_是愚蠢的，而是我的学习方法是愚蠢的，懒癌患者应该怎么从零开始学习_Python_呢！**
+**并不是说_Python_是愚蠢的，而是我的学习方法是愚蠢的，懒癌患者应该怎么从零开始学习_Python_呢！** 
+
+
+
+**什么才叫从零开始呢————就像我一样**   
+**第一步：![](./imgages/start.gif)    
+**第二步：![](./imgages/network.gif)         
+**第三步：![](./imgages/software.gif)             
+**第四步：![](./imgages/xiaojiejie.gif)            
+**第五步：![](./imgages/python.gif)                  
 
 # Why
 
