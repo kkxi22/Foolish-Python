@@ -7,11 +7,11 @@
 
 
 **什么才叫从零开始呢————就像我一样**   
-**第一步：![](./imgages/start.gif)    
-**第二步：![](./imgages/network.gif)         
-**第三步：![](./imgages/software.gif)             
-**第四步：![](./imgages/xiaojiejie.gif)            
-**第五步：![](./imgages/python.gif)                  
+**第一步：**![](./images/start.gif)    
+**第二步：**![](./images/network.gif)         
+**第三步：**![](./images/software.gif)             
+**第四步：**![](./images/xiaojiejie.gif)            
+**第五步：**![](./images/Python.gif)                  
 
 # Why
 
