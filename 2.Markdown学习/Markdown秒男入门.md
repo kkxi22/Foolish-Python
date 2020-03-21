@@ -59,9 +59,9 @@
 
 1. 两种编辑器整体对比
 
-   <img src="F:\Git\2.Markdown学习\images\typaro1.gif" style="zoom: 67%;" />
+   <img src="./images/typaro1.gif" style="zoom: 67%;" />
 
-   ![](F:\Git\2.Markdown学习\images\Markdownpad2.gif)
+   ![](./images/Markdownpad2.gif)
 
 2. 这里选择Typora编辑器(**Typora的一些细节设计让人榴莲忘返**)
 
@@ -84,7 +84,7 @@
 
  **效果如下：**
 
-<img src="F:\Git\2.Markdown学习\images\md标题.png" align = "left" style="zoom: 67%;" />
+<img src="./images/md标题.png" style="zoom: 67%;" />
 
 ### 2.Markdown字体
 
@@ -97,13 +97,18 @@ __粗体文本__
 ___粗斜体文本___
 ```
 
-**效果如下：**
+**效果如下：**  
 
->*斜体文本*
->_斜体文本_
->**粗体文本**
->__粗体文本__
->***粗斜体文本***
+>*斜体文本*  
+
+>_斜体文本_   
+
+>**粗体文本**   
+
+>__粗体文本__   
+
+>***粗斜体文本***   
+
 >___粗斜体文本___
 
 ### 3.Markdown删除线
@@ -167,7 +172,7 @@ ___粗斜体文本___
 
 **幸福的是在Typora里你还可以改变图片：**
 
-![](F:\Git\2.Markdown学习\images\tupian.gif)
+![](./images/tupian.gif)
 
 在上面的动图中，你也许看到了，当你输入`Markdown字符`会得到`html`代码，其基本的原理就是解析`html`代码。**`html`代码会在web前端学习中详细列出**，现在不懂也没事。
 
