@@ -20,7 +20,7 @@
 
 # GitHub学习
 
-<img src="./images/GitHub图标.jpg" style="zoom:50%;" />
+<img src="F:\Git\markdownfile\images\GitHub图标.jpg" alt="github图标" style="zoom:50%;" />
 
 ## Git和GitHub的区别
 
@@ -35,34 +35,34 @@
 
    > https://github.com
    >
-   > <img src="./images/Git注册1.png" style="zoom:50%;" />
+   > <img src="F:\Git\1.GitHub学习\images\Git注册1.png" style="zoom:50%;" />
 
 2. 填写信息
 
-   <img src="./images/Git注册2.png" style="zoom:80%;" />
+   <img src="F:\Git\1.GitHub学习\images\Git注册2.png" style="zoom:80%;" />
 
    3. 注册完成
 ## GitHub仓库及管理仓库
 
    1. 新建仓库
 
-      <img src="./images/git创建仓库.png" style="zoom:80%;" />
+      <img src="F:\Git\1.GitHub学习\images\git创建仓库.png" style="zoom:80%;" />
 
    2. 仓库概览
 
-      ![](./images/Git仓库概览.png)
+      ![](F:\Git\1.GitHub学习\images\Git仓库概览.png)
 
 3. 新建文件和文件夹
 
-   ![](./images/Git新建文件.png)
+   ![](F:\Git\1.GitHub学习\images\Git新建文件.png)
 
 4. 上传文件
 
-   <img src="./images/Git上传.png" style="zoom:80%;" />
+   <img src="F:\Git\1.GitHub学习\images\Git上传.png" style="zoom:80%;" />
 
 5. 克隆下载文件
 
-   ![](./images/下载文件.png)
+   ![](F:\Git\1.GitHub学习\images\下载文件.png)
 
 ## GitHub功能
 
@@ -78,7 +78,7 @@
 
 3. `issue`评论功能
 
-   如果别人发现你仓库里的某一段代码不对，可以提交一个![](F:\Git\markdownfile\images\Git_issue.png)给你，会在你GitHub主页显示这个issue。然后首先你需要给别人一个回复`Thanks`，这是礼貌。解决问题后，回复修复`bug`。
+   如果别人发现你仓库里的某一段代码不对，可以提交一个![](F:\Git\GitHub学习\images\Git_issue.png)给你，会在你GitHub主页显示这个issue。然后首先你需要给别人一个回复`Thanks`，这是礼貌。解决问题后，回复修复`bug`。
 
 4. `Pull requests`
 
