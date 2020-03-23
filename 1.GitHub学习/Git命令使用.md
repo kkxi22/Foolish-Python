@@ -16,35 +16,35 @@ Git百度网盘网址在：https://pan.baidu.com/s/1LVveOMzUsOgS2qWkXAOyVQ 提�
 
 2.  下一步，更改安装目录
 
-    ![](F:\Git\1.Github学习\g1.png)
+    ![](./images/g1.png)
 
 3.  下一步
 
-    ![](F:\Git\1.Github学习\g2.png)
+    ![](./images/g2.png)
 
 4.  下一步直到这个页面
 
-    ![](F:\Git\1.Github学习\g3.png)
+    ![](./images/g3.png)
 
     5.  下面所有步骤**下一步**，直到安装完成。
 
     6.  验证是否安装完成
 
-        ![](F:\Git\1.Github学习\g4.png)
+        ![](./images/g4.png)
 
     ### Linux安装Git
 
     1.  通过`sudo apt-get uddate -y`命令更新`apt`包列表
 
-        ![](F:\Git\1.Github学习\update.gif)
+        ![](./images/update.gif)
 
     2.  然后安装Git，命令`sudo apt-get git`
 
-        ![](F:\Git\1.Github学习\installgit.gif)
+        ![](./images/installgit.gif)
 
     3.  查看Git版本`git --version`
 
-        ![](F:\Git\1.Github学习\gitversion.gif)
+        ![](./images/gitversion.gif)
 
 # Git命令学习——本地操作
 
@@ -72,7 +72,7 @@ Git百度网盘网址在：https://pan.baidu.com/s/1LVveOMzUsOgS2qWkXAOyVQ 提�
 
     `git config --global user.name "用户名"` 可以和GitHub网页版用户名相同
 
-    ![](F:\Git\1.Github学习\gitconfig.gif)
+    ![](./images/gitconfig.gif)
 
 3.  配置邮箱
 
@@ -82,53 +82,53 @@ Git百度网盘网址在：https://pan.baidu.com/s/1LVveOMzUsOgS2qWkXAOyVQ 提�
 
 **初始化仓库**：`git init`    ——表示使用当前文件夹作为仓库，该命令执行完后会在当前目录生成一个 .git 隐藏目录。[运行后看不到隐藏目录请点我一下](https://jingyan.baidu.com/article/acf728fd2853fef8e410a37f.html)
 
-![](F:\Git\1.Github学习\gitinit.gif)
+![](./images/gitinit.gif)
 
 ### Git新建文件提交到仓库
 
-![](F:\Git\1.Github学习\liucheng.png)
+![](./images/liucheng.png)
 
 1.  创建文件`hello.py`
 
-    ![](F:\Git\1.Github学习\touch.png)
+    ![](./images/touch.png)
 
 2.  查看工作区目录文件状态
 
-    ![](F:\Git\1.Github学习\gitstatus1.png)
+    ![](./images/gitstatus1.png)
 
     并且提示，`git add <file>`可以提交文件
 
 3.  提交到暂存区`git add hello.py`
 
-    ![](F:\Git\1.Github学习\gitadd.png)
+    ![](./images/gitadd.png)
 
 4.  查看暂存区文件状态
 
-    ![](F:\Git\1.Github学习\stages.png)
+    ![](./images/stages.png)
 
 5.  提交仓库`git commit -m 'add hello file'`
 
-    ![](F:\Git\1.Github学习\gitcommit.png)
+    ![](./images/gitcommit.png)
 
 6.  `git status`查看工作区状态
 
-    ![](F:\Git\1.Github学习\cangku.png)
+    ![](./images/cangku.png)
 
 ### Git修改仓库文件
 
 1.  查看工作区状态
 
-    ![](F:\Git\1.Github学习\xiugai1.png)
+    ![](./images/xiugai1.png)
 
 2.  修改`hello.py`，使用`vi`，**vi的使用方法在Linux学习里**
 
-    ![](F:\Git\1.Github学习\vixiugai.gif)
+    ![](./images/vixiugai.gif)
 
-    ![](F:\Git\1.Github学习\vixiugai.png)
+    ![](./images/vixiugai.png)
 
 3.  使用`git status`查看工作目录
 
-    ![](F:\Git\1.Github学习\xiugai2.png)
+    ![](./images/xiugai2.png)
 
 4.  然后提交到暂存区`git add hello.py`，在提交到仓库`git commit -m 'moditif hello' `
 
@@ -136,15 +136,15 @@ Git百度网盘网址在：https://pan.baidu.com/s/1LVveOMzUsOgS2qWkXAOyVQ 提�
 
 1.  删除文件`rm hello.py`
 
-    ![](F:\Git\1.Github学习\del1.png)
+    ![](./images/del1.png)
 
 2.  删除`git`工作目录文件`git rm hello.py`
 
-    ![](F:\Git\1.Github学习\del2.png)
+    ![](./images/del2.png)
 
 3.  变更提交仓库，`git commit -m 'del hello'`
 
-    ![](F:\Git\1.Github学习\del3.png)
+    ![](./images/del3.png)
 
 # Git远程操作
 
@@ -162,33 +162,33 @@ Git远程操作可以实现多用户同步工作、多用户共同开发。
 
     *   随便在GitHub上找一个仓库
 
-        ![](F:\Git\1.Github学习\clone1.png)
+        ![](./images/clone1.png)
 
     *   在任何一个文件夹内，右键点击`Git Bash Here`输入命令`git clone https://github.com/kkxi22/Foolish-Python.git`
 
-        ![](F:\Git\1.Github学习\clone3.png)
+        ![](./images/clone3.png)
 
     *   克隆完成
 
-        ![](F:\Git\1.Github学习\clone4.png)
+        ![](./images/clone4.png)
 
 3.  然后你开始工作写代码，终于在你跑了8个老婆，妻离子散后，写完了代码。都在新文件`work.py`里。
 
-    ![](F:\Git\1.Github学习\clone5.png)
+    ![](./images/clone5.png)
 
 4.  然后使用*Git*命令先放到本地仓库，`git add work.py`，`git commit -m '工作完了'`
 
 5.  **同步到远程仓库**`git push`——会弹出登录框
 
-    ![](F:\Git\1.Github学习\clone6.png)
+    ![](./images/clone6.png)
 
 6.  登录
 
-    ![](F:\Git\1.Github学习\login.png)
+    ![](./images/login.png)
 
 7.  上传完成
 
-    ![](F:\Git\1.Github学习\clone7.png)
+    ![](./images/clone7.png)
 
 8.  上传错误问题
 
